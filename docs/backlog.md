@@ -1,8 +1,9 @@
-| Usuário      | Requisito | Motivação     |
-| :----:        |    :----:   |          :----: |
-| Como um cliente, eu quero      | acessar uma página<br>com informações gerais do produto       | para poder decidir se vou contratar o serviço.   |
-| Como um usuário, eu quero   | ter acesso privado ao sistema        | para sentir confiança na privacidade<br>de meus dados e pedidos.      |
+##Puc Marketplace Backlog
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
+| Usuario | Requisito | Motivacao |
+|--|--|--|
+| Como cliente, eu quero| acessar uma pagina contendo as informações principais do programa| para decidir se usarei a plataforma |
+Como um usuário, eu quero|ter acesso privado ao sistema |para sentir confiança na privacidade de meus dados.
+|Como usuário (vendedor), eu quero|poder anunciar itens no site para venda ou para troca | para que eu possa levandar fundos ou trocar por algo de maior valor para mim
+|Como usuário (comprador), eu quero|poder visualizar os itens de forma filtrada | para que eu vá direto no item que desejo.
+|Como usuário, eu quero| abrir a plataforma no celular | para que eu consiga utiliza-la de qualquer lugar.
