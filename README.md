@@ -1,5 +1,23 @@
-# Código do Projeto
+# Título do projeto
+Descreva aqui o que seu projeto pretende resolver, com motivações e objetivos.
 
-Mantenha neste diretório todo o código fonte do projeto. 
+## Alunos integrantes da equipe
 
-Se necessário, descreva neste arquivo aspectos relevantes da estrutura de diretórios criada para organização do código.
+* Aluno 1
+* Aluno 2
+* Aluno 3
+* Aluno 4
+* Aluno 5
+
+## Professores responsáveis
+
+* João Caram Santos de Oliveira
+* Marta Dias Moreira Noronha
+
+## Informações uteis
+
+* Link para o Kanban ou backlog do projeto 
+
+## Instruções de utilização
+
+Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
