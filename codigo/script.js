@@ -22,6 +22,9 @@ const handleSubmitCadastro = () => {
     console.log(newUsers)
     localStorage.setItem('users',JSON.stringify(newUsers))
     window.alert('Usuario Cadastrado')
+    email_cad_input.value=""
+    name_cad_input.value=""
+    pass_cad_input.value=""
 }
 const handleLogin = () => {
     const users = JSON.parse(localStorage.getItem('users'))
