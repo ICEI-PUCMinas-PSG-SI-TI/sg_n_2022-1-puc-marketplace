@@ -10,7 +10,7 @@ Como um usuário, eu quero|ter acesso privado ao sistema |para sentir confiança
 
 **Backlog sprint 3**
 - completar documentação na página inicial do repositório - 
-- limpar os campos após cadastro.
+- limpar os campos após cadastro.- feito
 - css da página de cadastro do produto. 
 - menu na página de cadastro
 - link na logo para voltar para o main
