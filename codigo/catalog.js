@@ -21,7 +21,6 @@ const handleNewItem = () =>{
 }
 const getUserInformations = () => {
     const active_user = JSON.parse(localStorage.getItem('active_user'))
-    user_display_name.innerHTML = active_user.name
     const itens = active_user.itens
     itens.map(x =>{
         const newLi = document.createElement('li')

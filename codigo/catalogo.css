@@ -1,0 +1,106 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+button{
+    cursor: pointer;  
+    background: #283673;
+    padding: 8px 5px;
+    color: #FBDE37;
+    font-size: 20px;  
+    border: 1px solid #fff;   
+    margin-bottom: 10px;  
+    text-shadow: 0 1px 1px #333;
+   
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+   
+    transition: all 0.2s linear;
+  }
+   
+  /*estilo do botão submit no hover */
+  button:hover{
+    background: #4ab3c6;
+  }
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+#user-header{
+    border: solid black 1px;
+    height: 50px;
+    background-color: #2a3258;
+    color : white;
+    display: flex;
+    justify-content: space-between;
+}
+input:not([type="checkbox"]){
+    margin-top: 4px;
+    padding: 10px;    
+    border: 1px solid #b2b2b2;
+   
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+   
+    -webkit-box-shadow: 0px 1px 4px 0px rgba(168, 168, 168, 0.6) inset;
+    box-shadow: 0px 1px 4px 0px rgba(168, 168, 168, 0.6) inset;
+   
+    -webkit-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+  
+}
+#user-name{
+    font-size: larger;
+
+}
+#cadastro,#itens-div{
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+body{
+    background-color: #283673;
+}
+input{
+    color: black;
+}
+*{
+    color: white;
+}
+   
