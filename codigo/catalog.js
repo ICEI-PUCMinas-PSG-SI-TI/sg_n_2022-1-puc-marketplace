@@ -6,7 +6,7 @@ const item_list = document.getElementById('itens-list')
 
 const handleNewItem = () =>{
     const newItem = document.createElement('li')
-    const itemBody =  `${item_name_input.value} - R$ ${item_price_input.value},00`
+    const itemBody =  `${item_name_input.value} - R$ ${item_price_input.value}`
     newItem.innerHTML = itemBody
     let active_user = JSON.parse(localStorage.getItem('active_user'))
     let users = JSON.parse(localStorage.getItem('users'))
