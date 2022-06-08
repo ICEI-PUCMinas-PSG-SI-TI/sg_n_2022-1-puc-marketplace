@@ -15,7 +15,7 @@ Descreva aqui o que seu projeto pretende resolver, com motivações e objetivos.
 
 ## Informações uteis
 
-* Link para o Kanban ou backlog do projeto 
+*https://github.com/ICEI-PUCMinas-PSG-SI-TI/sg_n_2022-1-puc-marketplace/blob/master/documentos/backlog.md
 
 ## Instruções de utilização
 
