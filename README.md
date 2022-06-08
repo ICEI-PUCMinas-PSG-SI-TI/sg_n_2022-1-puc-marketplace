@@ -3,11 +3,10 @@ Descreva aqui o que seu projeto pretende resolver, com motivações e objetivos.
 
 ## Alunos integrantes da equipe
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
+* Aluno 1: Samuel Vitor Cardoso Santos
+* Aluno 2: Erick Kauan
+* Aluno 3: Artur Capucho
+* Aluno 4: Henrique Lemes
 
 ## Professores responsáveis
 
