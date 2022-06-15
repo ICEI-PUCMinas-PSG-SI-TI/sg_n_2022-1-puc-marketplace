@@ -9,8 +9,11 @@ Como um usuário, eu quero|ter acesso privado ao sistema |para sentir confiança
 |Como usuário, eu quero| abrir a plataforma no celular | para que eu consiga utiliza-la de qualquer lugar.
 
 **Backlog sprint 3**
-- completar documentação na página inicial do repositório - 
-- limpar os campos após cadastro.- feito
-- css da página de cadastro do produto. 
-- menu na página de cadastro
-- link na logo para voltar para o main
+- completar configuração na página inicial do repositório - feito
+- limpar os campos após cadastro - feito
+- css da página de cadastro do produto - feito
+- menu na página de cadastro - em andamento
+- link na logo para voltar para o main - feito.
+
+**Backlog sprint 4**
+Ainda a definir
