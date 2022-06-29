@@ -102,4 +102,17 @@ input{
 *{
     color: white;
 }
-   
+#profile-name {
+    font-size: 48px;
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+textarea{
+    color : black;
+    text-align: center;
+    margin-left: 43%;
+    display: block;
+}
