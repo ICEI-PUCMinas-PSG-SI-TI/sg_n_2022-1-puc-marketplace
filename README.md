@@ -1,18 +1,22 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7738882&assignment_repo_type=AssignmentRepo)
-# Nome do projeto
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
+# Título do projeto
+Descreva aqui o que seu projeto pretende resolver, com motivações e objetivos.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 4
-* Nome completo do aluno 4
+* Aluno 1: Samuel Vitor Cardoso Santos
+* Aluno 2: Erick Kauan
+* Aluno 3: Artur Capucho
+* Aluno 4: Henrique Lemes
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* João Caram Santos de Oliveira
+* Marta Dias Moreira Noronha
 
+## Informações uteis
+
+*https://github.com/ICEI-PUCMinas-PSG-SI-TI/sg_n_2022-1-puc-marketplace/blob/master/documentos/backlog.md
+
+## Instruções de utilização
+
+Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
