@@ -1,5 +1,5 @@
-# Título do projeto
-Descreva aqui o que seu projeto pretende resolver, com motivações e objetivos.
+# Puc Marketplace
+Plataforma de compra e vendas de serviços para alunos e funcionarios PUC MINAS
 
 ## Alunos integrantes da equipe
 
