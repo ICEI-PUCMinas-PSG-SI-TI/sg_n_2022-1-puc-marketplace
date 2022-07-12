@@ -8,7 +8,23 @@ const senha_login_input = document.getElementById('senha_login')
 const submit_login_button = document.getElementById('submit_login')
 
 const handleSubmitCadastro = () => {
-    const newUser = {
+    var numeros = /([0-9])/;
+    var alfabeto = /([a-zA-Z])/;
+    var chEspeciais = /([~,!,@,#,$,%,^,&,*,-,_,+,=,?,>,<])/;
+    
+    if(!email_cad_input.value.includes("@"&&".com")){
+        window.alert("Email Inválido")
+        return
+    }
+    if(name_cad_input.value.length <3){
+        window.alert("Nome Inválido")
+        return
+    }
+    if(!pass_cad_input.value.match(numeros) || !pass_cad_input.value.match(alfabeto) || !pass_cad_input.value.match(chEspeciais) || !pass_cad_input.value.length>=8){
+        window.alert("Senha Inválida, digite pelo menos um número, uma letra e minúscula e maiúscula, e um caracter especial dentre esses : ~,!,@,#,$,%,^,&,*,-,_,+,=,?,>,< ")
+        return
+    }
+        const newUser = {
         name: name_cad_input.value,
         email: email_cad_input.value,
         password: pass_cad_input.value,
