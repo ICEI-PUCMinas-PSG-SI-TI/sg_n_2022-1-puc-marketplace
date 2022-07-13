@@ -21,6 +21,9 @@ const handleNewItem = () =>{
 }
 const getUserInformations = () => {
     const active_user = JSON.parse(localStorage.getItem('active_user'))
+    if(!active_user){
+        window.location.href = 'products.html';
+    }
     const itens = active_user.itens
     itens.map(x =>{
         const newLi = document.createElement('li')
