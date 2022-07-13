@@ -9,5 +9,4 @@
 - Página de produto: html e css - Henrique - em andamento
 - Página de produto: JS - Henrique - em andamento
 - Página de busca: html e css - Samuel - em andamento
-- Página de busca - Samuel - em andamento
 -mostrar o nome na pagina apos o login- Erick
